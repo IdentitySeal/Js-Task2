@@ -51,7 +51,7 @@ function interestCalculator(arr) {
 
     console.log(interestData)
 
-    // return interestData;
+    return interestData;
 }
 
 interestCalculator(data)
